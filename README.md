@@ -16,10 +16,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) with browser to see the result.
 
 
 Team Member Contributions:
@@ -27,3 +24,6 @@ Ivan Regalario - Backend Development, Vercel Deploymeny
 Jephil Honasan - Backend Development
 Jane Corro - Frontend Development
 Jorinna Espena - Frontend Development
+
+Live URL: https://next-js-project-orpin-phi.vercel.app/
+
